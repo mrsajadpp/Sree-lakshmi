@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "chatbotapi": "^1.4.2",
+    "discord.js": "^13.10.3",
+    "node-fetch": "^3.2.10",
+    "nodemon": "^2.0.19",
+    "prompt-sync": "^4.2.0"
+  },
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "name": "n",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
